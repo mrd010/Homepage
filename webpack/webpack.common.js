@@ -48,7 +48,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Webpack App',
+      title: 'About Me',
       filename: 'index.html',
       template: 'src/index.html',
     }),
